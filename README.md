@@ -1,5 +1,5 @@
 ## Membuat Model Machine Learning dengan Data Time Series
-Proyek Kedua : Membuat Model Machine Learning dengan Data Time Series pada kelas Belajar Machine Learning untuk Pemula.
+Proyek Kedua : Membuat Model Machine Learning dengan Data Time Series pada kelas Belajar Pengembangan Machine Learning.
 
 ## Kriteria
 - Dataset yang akan dipakai bebas, namun minimal memiliki 1000 sampel.
